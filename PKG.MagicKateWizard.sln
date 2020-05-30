@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30001.183
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKG.MagicKateWizard", "MagicKateWizard\PKG.MagicKateWizard.csproj", "{B6ABFCD5-AAEB-4117-A85C-98BA7D00FB8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6ABFCD5-AAEB-4117-A85C-98BA7D00FB8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6ABFCD5-AAEB-4117-A85C-98BA7D00FB8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6ABFCD5-AAEB-4117-A85C-98BA7D00FB8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6ABFCD5-AAEB-4117-A85C-98BA7D00FB8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECED0338-4E27-4F0F-B4BB-7F98C8F6C48D}
+	EndGlobalSection
+EndGlobal
